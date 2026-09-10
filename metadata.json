@@ -1,0 +1,7 @@
+{
+  "name": "Discord Architect",
+  "description": "Discord Bot manager, server designer with AI & presets, voice channel creator, and Webhook Embed & Component v2 builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

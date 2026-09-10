@@ -1,0 +1,9 @@
+{
+  "name": "discord-architect",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'Build successful'"
+  }
+}
